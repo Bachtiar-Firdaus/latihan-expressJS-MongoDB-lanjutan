@@ -1,0 +1,7 @@
+npm init    
+npm install express mongodb body-parser mongoose multer nodemon moment compression cors errorhandler
+npm install -g nodemon
+
+
+//
+nodemon.cmd .\(file).js
